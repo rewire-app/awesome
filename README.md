@@ -1,4 +1,8 @@
-# Public Domain Repo Template
+# Awesome Rewire
+
+Curation of awesome Rewire bots, clients, libraries, and more!
+
+---
 
 Quad-licensed under various public domain declarations.
 
