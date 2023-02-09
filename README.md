@@ -2,6 +2,22 @@
 
 Curation of awesome Rewire bots, clients, libraries, and more!
 
+### Clients
+
+- Rewire: Web, Desktop, Mobile, etc
+
+### Bots
+
+-
+
+### Bridges
+
+-
+
+### Libraries
+
+-
+
 ---
 
 Quad-licensed under various public domain declarations.
